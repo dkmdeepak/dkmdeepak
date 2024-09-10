@@ -28,7 +28,7 @@ I specialize in building dynamic, responsive websites from the ground up, utiliz
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkmdeepak&" alt="dkmdeepak" /></p>
 <div align="left">
-<img height="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
+<img height="400" width='800' src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 </div>
 
 ###
