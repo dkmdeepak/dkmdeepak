@@ -20,3 +20,9 @@ I specialize in building dynamic, responsive websites from the ground up, utiliz
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
 <a href='https://angular.dev/'>
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>
+<br/><br/>
+<div align="left">
+  <img height="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
+</div>
+
+###
