@@ -1,5 +1,5 @@
  
-## <h1 align="center">Hi there! I'm Deepak🚀 </h1>
+## <h1 align="center">Hi there! I'm Deepak </h1>
 
 **`ME(A)RN Stack Developer`**
 
