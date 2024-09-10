@@ -1,4 +1,5 @@
-## 🏄‍♂️ Deepak KM
+ 
+## <h1 align="center">🏄‍♂️ Deepak KM</h1>
 
 **`ME(A)RN Stack Developer`**
 
@@ -26,13 +27,13 @@ I specialize in building dynamic, responsive websites from the ground up, utiliz
 <img align="left" alt="redux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /></a>
 <br/><br/>
 
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkmdeepak&" alt="dkmdeepak" /></p>
 <div align="left">
 <img height="400" width='800' src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 </div>
 
-###
-<h3 align="left">Connect with me:</h3>
+##  Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/deepaklin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepaklin" height="30" width="90" /></a>
 </p>
