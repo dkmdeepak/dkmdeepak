@@ -33,7 +33,7 @@ I specialize in building dynamic, responsive websites from the ground up, utiliz
 <img height="400" width='800' src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 </div>
 
-##  Connect with me:
+##  🔗Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/deepaklin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepaklin" height="30" width="90" /></a>
 </p>
