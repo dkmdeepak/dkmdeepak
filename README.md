@@ -25,17 +25,15 @@ I specialize in building dynamic, responsive websites from the ground up, utiliz
 <a href="https://redux.js.org">
 <img align="left" alt="redux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /></a>
 <br/><br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkmdeepak&" alt="dkmdeepak" /></p>
 <div align="left">
 <img height="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 </div>
 
 ###
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepaklin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepaklin" height="30" width="90" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkmdeepak&" alt="dkmdeepak" /></p>
-
 
