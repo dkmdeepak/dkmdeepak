@@ -3,7 +3,7 @@
 
 **`ME(A)RN Stack Developer`**
 
-I specialize in building dynamic, responsive websites from the ground up, utilizing the full power of the **ME(A)RN stack**. From initial planning and design to addressing complex, real-world challenges with code, I manage every aspect of web development. With a strong focus on both frontend and backend, I deliver seamless, high-performance web applications using React, Angular on the frontend, Node.js and Express on the backend, and MongoDB for data management. 
+I specialize in building dynamic,responsive websites from the ground up, utilizing the full power of the **ME(A)RN stack**. From initial planning and design to addressing complex, real-world challenges with code, I manage every aspect of web development. With a strong focus on both frontend and backend, I deliver seamless, high-performance web applications using React, Angular on the frontend, Node.js and Express on the backend, and MongoDB for data management. 
 
 
 [![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
